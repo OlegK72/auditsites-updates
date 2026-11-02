@@ -1,12 +1,12 @@
 {
   "format": "audit-sites-app/v1",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "min_version": "0.6.0",
-  "sha256": "c0b5433a405b88fc08b73dc9a867064073df3fec92681fdd8479874a6737f75a",
-  "signature": "6ba6d16dec2f05c7f91a71fa88af7cc9f4c74bb5f5bda887cd0dd9e1ea246785431857e3418fdd08aefd6c38f7d4dddbee8d7e1b84df795eedb8fe236ed7450c",
-  "url": "https://drive.usercontent.google.com/download?id=1yoTK-obwwfwOpiDVmCKnFUiPa-2tzlEz\u0026export=download\u0026confirm=t",
-  "size": 85276043,
-  "published": "2026-11-02T11:27:03Z",
-  "release_notes": "Обновление по кнопке: launcher, подмена папки версии, откат при сбое старта; Schema.org и дубли текстов",
+  "sha256": "72c706d27604a5d03178ed6b9c47619ad0c99a9a92137e2671a23eb2541d3769",
+  "signature": "93b0bc777f0c9c09760fb0d7393f876ddb83cecbefca9d277230f0f6149b4b55dfefdcac2f1227debeb972af8890ffdbf78b7a71f81ff32ad9b18c094d43ab05",
+  "url": "https://drive.usercontent.google.com/download?id=1augcnaqpCxg4AWT-7i5kwixulvZK-Jvs\u0026export=download\u0026confirm=t",
+  "size": 80608306,
+  "published": "2026-11-02T12:25:34Z",
+  "release_notes": "0.7.2: результаты разметки и дублей открываются в отдельном окне и не блокируют следующие кнопки; диалоги выходят на передний план и закрываются по Esc; исправлен откат обновления (неудачная папка версии больше не блокирует повторную установку); программа обновления и лаунчер теперь тоже обновляются кнопкой",
   "channel": "stable"
 }
