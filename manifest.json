@@ -1,0 +1,12 @@
+{
+  "format": "audit-sites-app/v1",
+  "version": "0.7.1",
+  "min_version": "0.6.0",
+  "sha256": "c0b5433a405b88fc08b73dc9a867064073df3fec92681fdd8479874a6737f75a",
+  "signature": "6ba6d16dec2f05c7f91a71fa88af7cc9f4c74bb5f5bda887cd0dd9e1ea246785431857e3418fdd08aefd6c38f7d4dddbee8d7e1b84df795eedb8fe236ed7450c",
+  "url": "https://drive.usercontent.google.com/download?id=1yoTK-obwwfwOpiDVmCKnFUiPa-2tzlEz\u0026export=download\u0026confirm=t",
+  "size": 85276043,
+  "published": "2026-11-02T11:27:03Z",
+  "release_notes": "Обновление по кнопке: launcher, подмена папки версии, откат при сбое старта; Schema.org и дубли текстов",
+  "channel": "stable"
+}
