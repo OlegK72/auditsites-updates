@@ -1,12 +1,12 @@
 {
   "format": "audit-sites-app/v1",
-  "version": "0.7.7",
+  "version": "0.7.8",
   "min_version": "0.6.0",
-  "sha256": "7d41ab883e27a1b5e83d9e33fc4df2fd738fad81e98a0cd44291681fdac39e75",
-  "signature": "f564ccc0714d63fb78af26b9bcbb1d2c64d42b3049a25e4c05deb02ea8087721e655baf840ce66b1556558d1f57850271e5825d4e68482573a72e8b1d04dcc06",
-  "url": "https://github.com/OlegK72/auditsites-updates/releases/download/manifest-0.7.7/AuditSites-0.7.7-win-x64.zip",
-  "size": 80765437,
-  "published": "2026-11-02T14:04:04Z",
-  "release_notes": "Вторая волна проверок: блокирующие ресурсы, признаки Web Vitals, доступность разметки, пары hreflang, пагинация, сверка карты сайта с обходом",
+  "sha256": "fd04ec3cdfd27ceaa56a660e8323e6d7f77a130c6ac38d75fc223346dc341d51",
+  "signature": "b560aded34e300410b8f8cf6d1232e44e3b076145d62e094039c43b9436e6497c99693db64d4d774e52734f062f4b0520fb4694991ab7f40979922425a792109",
+  "url": "https://github.com/OlegK72/auditsites-updates/releases/download/manifest-0.7.8/AuditSites-0.7.8-win-x64.zip",
+  "size": 80771948,
+  "published": "2026-11-02T19:51:41Z",
+  "release_notes": "Обновление больше не пропускает новую версию: берётся самая новая из всех источников; установка подтверждает старт; повторная установка уже распакованной версии не блокируется",
   "channel": "stable"
 }
