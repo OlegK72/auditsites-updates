@@ -1,12 +1,12 @@
 {
   "format": "audit-sites-app/v1",
-  "version": "0.7.4",
+  "version": "0.7.5",
   "min_version": "0.6.0",
-  "sha256": "e78f216b272694c5249cdd38548589863454e3908287abcd1b0411fb70e477b9",
-  "signature": "d2e9f10999def2d87e436e01f72b83e65599357e10bb0aee8c75f79ea570464adfd66eda90b06684f22a7b302bb8211d3c15df271d025b057b95cd2447f44e05",
-  "url": "https://drive.usercontent.google.com/download?id=1Gk0cZqrpuBz1mQEfxdJ4-jvxVquZHJ1y\u0026export=download\u0026confirm=t",
-  "size": 80608560,
-  "published": "2026-11-02T12:54:43Z",
-  "release_notes": "0.7.4: исправлена настоящая причина, почему кнопка обновления не работала — манифест пересобирался моделью и терял поля min_version и release_notes, из-за чего подпись не сходилась; теперь манифест уходит в ядро исходным текстом; добавлены две контрактные проверки; плюс всё из 0.7.3",
+  "sha256": "5a88c826fa07592348bdccc848881beeb24cd5a7afa1f4e0e7ff2412cbcc1b1d",
+  "signature": "8841bf22be75835e4c6d9068963c469d988db9fdbeff480031d9e8f50924a17e030fd7239dafde3e4eb058c9e7f45262e3ee60e2c658cf7475fe1c19a9a76d02",
+  "url": "https://github.com/OlegK72/auditsites/releases/download/v0.7.5/AuditSites-0.7.5-win-x64.zip",
+  "size": 80746000,
+  "published": "2026-11-02T13:33:44Z",
+  "release_notes": "Проверка сайта по сети и правки HTML: robots/sitemap, ответы и редиректы, сертификат, заголовки безопасности, скорость, битые ссылки; отдельный раздел правок с разницей и проверкой результата; чтение позиций Topvisor без платных запусков; отчёт для клиента в HTML",
   "channel": "stable"
 }
