@@ -1,12 +1,12 @@
 {
   "format": "audit-sites-app/v1",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "min_version": "0.6.0",
-  "sha256": "72c706d27604a5d03178ed6b9c47619ad0c99a9a92137e2671a23eb2541d3769",
-  "signature": "93b0bc777f0c9c09760fb0d7393f876ddb83cecbefca9d277230f0f6149b4b55dfefdcac2f1227debeb972af8890ffdbf78b7a71f81ff32ad9b18c094d43ab05",
-  "url": "https://drive.usercontent.google.com/download?id=1augcnaqpCxg4AWT-7i5kwixulvZK-Jvs\u0026export=download\u0026confirm=t",
-  "size": 80608306,
-  "published": "2026-11-02T12:25:34Z",
-  "release_notes": "0.7.2: результаты разметки и дублей открываются в отдельном окне и не блокируют следующие кнопки; диалоги выходят на передний план и закрываются по Esc; исправлен откат обновления (неудачная папка версии больше не блокирует повторную установку); программа обновления и лаунчер теперь тоже обновляются кнопкой",
+  "sha256": "1b2e90c74d5cd2cc5666e86565cbbdfeb7aeb20e250648386dbad261975c165d",
+  "signature": "51294f834689f6b0479bb78fa9d0c9ab89d1e2f3165a7ce2632ec89ff6b4b7f36f087bb08f038c1b9d57dfe292ec8ff8b7074d8ced18871820de2a8f1b892e0a",
+  "url": "https://drive.usercontent.google.com/download?id=1vTxUJfq1I4VmrR8mEzIDf0YmOuigD_5l\u0026export=download\u0026confirm=t",
+  "size": 80609390,
+  "published": "2026-11-02T12:38:50Z",
+  "release_notes": "0.7.3: кнопка «Проверить обновления» в шапке теперь действительно проверяет обновление; ошибки проверки больше не затираются; проверка запускается сама при открытии карточки; четыре резервных адреса манифеста; плюс всё из 0.7.2 — немодальные окна результатов, диалоги на передний план и Esc, исправленный откат, обновляемые лаунчер и updater",
   "channel": "stable"
 }
