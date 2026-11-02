@@ -3,10 +3,10 @@
   "version": "0.7.5",
   "min_version": "0.6.0",
   "sha256": "5a88c826fa07592348bdccc848881beeb24cd5a7afa1f4e0e7ff2412cbcc1b1d",
-  "signature": "8841bf22be75835e4c6d9068963c469d988db9fdbeff480031d9e8f50924a17e030fd7239dafde3e4eb058c9e7f45262e3ee60e2c658cf7475fe1c19a9a76d02",
-  "url": "https://github.com/OlegK72/auditsites/releases/download/v0.7.5/AuditSites-0.7.5-win-x64.zip",
+  "signature": "d5e88a47c7324b9ec23936c2382538d76665c361fb5dea3c37ff778d4d29d24fb3e887e13a04f778d312399cc5655b91542011ad8c21d3b895dae6dd31b7440f",
+  "url": "https://github.com/OlegK72/auditsites-updates/releases/download/manifest-0.7.5/AuditSites-0.7.5-win-x64.zip",
   "size": 80746000,
-  "published": "2026-11-02T13:33:44Z",
+  "published": "2026-11-02T13:34:43Z",
   "release_notes": "Проверка сайта по сети и правки HTML: robots/sitemap, ответы и редиректы, сертификат, заголовки безопасности, скорость, битые ссылки; отдельный раздел правок с разницей и проверкой результата; чтение позиций Topvisor без платных запусков; отчёт для клиента в HTML",
   "channel": "stable"
 }
