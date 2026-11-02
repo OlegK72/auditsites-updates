@@ -1,12 +1,12 @@
 {
   "format": "audit-sites-app/v1",
-  "version": "0.7.6",
+  "version": "0.7.7",
   "min_version": "0.6.0",
-  "sha256": "746fa0b3c6f2872d40bc53b869aa07c71c81ed4dcdb3ff244ebe15a035bb77dd",
-  "signature": "036dde9cbb29e61faee622831bc2205569968889aceebd77e8f1a234766dfbefcc3557f5fb76d754501197cc8618e78a201cc50e97ace68e4f6325c9c741a70e",
-  "url": "https://github.com/OlegK72/auditsites-updates/releases/download/manifest-0.7.6/AuditSites-0.7.6-win-x64.zip",
-  "size": 80747686,
-  "published": "2026-11-02T13:46:16Z",
-  "release_notes": "Кнопки обновления включаются сразу после проверки; из 0.7.5 — проверка сайта по сети, раздел правок с разницей и проверкой результата, позиции Topvisor без платных запусков, отчёт для клиента",
+  "sha256": "7d41ab883e27a1b5e83d9e33fc4df2fd738fad81e98a0cd44291681fdac39e75",
+  "signature": "f564ccc0714d63fb78af26b9bcbb1d2c64d42b3049a25e4c05deb02ea8087721e655baf840ce66b1556558d1f57850271e5825d4e68482573a72e8b1d04dcc06",
+  "url": "https://github.com/OlegK72/auditsites-updates/releases/download/manifest-0.7.7/AuditSites-0.7.7-win-x64.zip",
+  "size": 80765437,
+  "published": "2026-11-02T14:04:04Z",
+  "release_notes": "Вторая волна проверок: блокирующие ресурсы, признаки Web Vitals, доступность разметки, пары hreflang, пагинация, сверка карты сайта с обходом",
   "channel": "stable"
 }
